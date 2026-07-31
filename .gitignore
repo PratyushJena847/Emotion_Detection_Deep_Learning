@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model
+emotion_model.keras
+
+# Dataset
+data/
+angry/
+happy/
+neutral/
+sad/
+surprised/
