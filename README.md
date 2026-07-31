@@ -3,7 +3,7 @@
 A complete pipeline for detecting 5 emotions (angry, happy, neutral, sad, surprised) from webcam or IP camera  feed using a CNN model with OpenCV Haar Cascade face detection.
 
 ## Dataset
-
+-Download the dataset from: https://www.kaggle.com/datasets/msambare/fer2013
 - **5 emotion classes**: angry, happy, neutral, sad, surprised
 - **~16,000 images** total (~3,000 per class)
 - Images are 100x100 grayscale PNG files
