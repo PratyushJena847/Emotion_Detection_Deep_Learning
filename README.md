@@ -1,2 +1,1 @@
-# Emotion_Detection_Deep_Learning
-The project uses
+# Emotion_Detection_Deep_Learn
